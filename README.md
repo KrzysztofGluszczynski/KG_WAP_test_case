@@ -7,7 +7,9 @@ WAP testing<br>
         - Python                3.12.2<br>
         - Selenium              4.21.0<br>
         - Twitch mobile site    16-Jun-2024<br>
-        
+<br>
+Test case is single python file (WAP_test_case.py) in WAP_test_case folder.
+<br>    
 Assumptions:<br>
     - After Step 3 from instruction doesn't have option to scroll<br>
     I assumed to select first option StarCraft II to go to channels selection for StarCraft II category<br>
