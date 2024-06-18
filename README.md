@@ -1,6 +1,3 @@
-<div align="center">
-
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/Anmol_Codes.svg?style=social&label=Follow%20%40Anmol_Codes)](https://twitter.com/Anmol_Codes)
 WAP testing
     Wireless Application Protocol - Twitch and phone mode testing
     Used applications:
